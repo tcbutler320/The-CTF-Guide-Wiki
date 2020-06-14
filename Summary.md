@@ -2,6 +2,7 @@
 
 ## Quick Links
 
+* Test
 * CTF Playbook Instructions
 * Getting Started in CTF
   * Categories
@@ -11,6 +12,6 @@
   * Linux Penetration Testing
   * Windows Penetration Testing
   * Web Application Penetration Testing
-  * Cryptography
+  * Cryptograph
   * Stegonagraphy
   * Open Source Intelligence
