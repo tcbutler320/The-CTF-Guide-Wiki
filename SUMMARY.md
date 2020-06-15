@@ -10,6 +10,7 @@
 
 ## Getting Started
 
+* [Getting Started](getting-started/getting-started.md)
 * [Picking a Category](getting-started/picking-a-category.md)
 * [Choosing your Challenge Kit](getting-started/choosing-your-challenge-kit/README.md)
   * [Dedicated Virtual Machine](getting-started/choosing-your-challenge-kit/dedicated-virtual-machine/README.md)
@@ -32,6 +33,7 @@
 
 ## Categories
 
+* [Categories](categories/categories.md)
 * [Boot 2 Root](categories/boot-2-root/README.md)
   * [Vulnhub](categories/boot-2-root/vulnhub.md)
   * [Hack the Box](categories/boot-2-root/hack-the-box.md)
@@ -42,6 +44,7 @@
 
 ## Techniques
 
+* [Techniques](techniques/techniques.md)
 * [Linux Penetration Testing](techniques/linux-penetration-testing/README.md)
   * [Service Enumeration](techniques/linux-penetration-testing/service-enumeration/README.md)
     * [Telnet \| 21](techniques/linux-penetration-testing/service-enumeration/telnet-or-21.md)
