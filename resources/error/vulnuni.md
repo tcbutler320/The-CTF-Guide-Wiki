@@ -4,6 +4,8 @@ description: 'By Tyler Butler, https://tylerbutler.io'
 
 # VulnUni CTF Write-Up
 
+![Using SQL map to test injectable web applications](../../.gitbook/assets/image.png)
+
 ## Overview
 
 VulnUni is a CTF challenge hosted on [VulnHub](https://www.vulnhub.com/entry/vulnuni-101,439/) and created by [@](https://twitter.com/@emaragkos)[emaragkos](https://twitter.com/@emaragkos). It is a boot2root web application challenge that focuses on SQL injection vulnerabilities and linux privilege escalation. To solve this challenge, I used an unauthenticated blind SQL injection vulnerability, a php bind shell upload, and a linux kernel privilege escalation vulnerability. My workstation setup included VMware fusion and the 2020 release of Kali Linux for VMware which can be found on Offensive Securities [VM Image Download Page](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/). One interesting aspect of this challenge is the use of a vulnerable E-learning platform from the Greek University Network GUnet.
