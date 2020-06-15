@@ -64,11 +64,11 @@
 
 * [CTF Guide Toolkit](toolkit/ctf-guide-toolkit.md)
 
-## Write-Ups <a id="writeups"></a>
+## Resources
 
-* [Featured Write-Ups](writeups/error/README.md)
-  * [VulnUni CTF Write-Up](writeups/error/vulnuni.md)
-  * [Hack Me CTF Write-Up](writeups/error/untitled.md)
+* [Featured Write-Ups](resources/error/README.md)
+  * [VulnUni CTF Write-Up](resources/error/vulnuni.md)
+  * [Hack Me CTF Write-Up](resources/error/untitled.md)
 
 ## Github Wiki Utilities
 

@@ -4,15 +4,45 @@ description: 'An open source platform for teaching, learning, and promoting Capt
 
 # Welcome to the CTF Guide
 
-The CTF Guide is an open source project dedicated to collecting, creating, and disseminating resources on Capture the Flag competitions. Whether you are a seasoned information security professional, an academic, a student, or just curious about CTF's, this repository  is designed to contain useful information for all ages and skill levels. 
+## About
 
-Capture the Flag competitions can come in several forms, but most commonly refers to challenges where players use offensive cyber techniques to exploit vulnerabilities in software to “‘capture” or reveal flags which are hidden from plain view. The practice of CTF’s helps to develop deep understanding of computer’s, computer networking, software, and the relationship between them. There are several different types of CTF events including [boot2root](), [Jeopardy](), [Attack-Defense](categories/attack-defend.md), and mixed. Each type uses slightly different skill sets.
+The CTF Guide is an open source project dedicated to teaching, learning, and promoting Capture the Flag competitions. Whether you are a seasoned information security professional, an academic, a student, or just curious about CTF's, this repository  is designed to contain useful information for all ages and skill levels. 
 
-This guide  is a collection of resources for people looking to get involved in their first CTF as well as seasoned players looking for new solutions to challenges. On the left-hand navigation bar, you can find documentation on topics grouped into categories
+## Navigating the Guide
 
-* [Getting Started](getting-started/getting-started.md)
-* [Categories](categories/categories.md)
-* [Techniques](techniques/techniques.md)
-* Toolkit 
-* Resources
+The guide is broken down into groups
+
+### \*\*\*\*[**Getting** **Started** ](getting-started/getting-started.md)
+
+{% page-ref page="getting-started/picking-a-category.md" %}
+
+{% page-ref page="getting-started/choosing-your-challenge-kit/" %}
+
+{% page-ref page="getting-started/setting-up.md" %}
+
+### \*\*\*\*[**Categories**](categories/categories.md)\*\*\*\*
+
+{% page-ref page="categories/boot-2-root/" %}
+
+{% page-ref page="categories/jeopardy/" %}
+
+{% page-ref page="categories/attack-defend.md" %}
+
+### \*\*\*\*[**Techniques**](techniques/techniques.md)\*\*\*\*
+
+{% page-ref page="techniques/linux-penetration-testing/" %}
+
+{% page-ref page="techniques/windows-penetration-testing-1/" %}
+
+{% page-ref page="techniques/web-application-testing/" %}
+
+{% page-ref page="techniques/crytography/" %}
+
+### \*\*\*\*[**Toolkit**](toolkit/ctf-guide-toolkit.md)\*\*\*\*
+
+{% page-ref page="toolkit/ctf-guide-toolkit.md" %}
+
+### \*\*\*\*[**Resources**](techniques/windows-penetration-testing-1/windows-penetration-testing-resources.md)\*\*\*\*
+
+{% page-ref page="resources/error/" %}
 
