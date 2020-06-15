@@ -75,3 +75,7 @@
 * [The CTF Guide Index](github-wiki-utilities/_sidebar.md)
 * [\_Footer](github-wiki-utilities/_footer.md)
 
+## Community
+
+* [Getting Involved](community/getting-involved.md)
+
