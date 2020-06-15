@@ -1,5 +1,5 @@
 ---
-description: A primer on CTF
+description: A primer on Capture the Flag
 ---
 
 # What is Capture the Flag

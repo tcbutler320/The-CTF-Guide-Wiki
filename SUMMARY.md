@@ -1,12 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome to the CTF Guide](README.md)
 
 ## Welcome to the Guide
 
-* [Home](welcome-to-the-guide/home.md)
-* [The CTF Guide](welcome-to-the-guide/_sidebar.md)
 * [What is Capture the Flag](welcome-to-the-guide/getting-started-in-ctf.md)
+* [Who is CTFGuide.org](welcome-to-the-guide/who-is-ctfguide.org.md)
 
 ## Getting Started
 
@@ -65,5 +64,14 @@
 
 ## Github Wiki Utilities
 
+* [The CTF Guide Index](github-wiki-utilities/_sidebar.md)
 * [\_Footer](github-wiki-utilities/_footer.md)
+
+## ToolKit
+
+* [CTF Guide Toolkit](toolkit/ctf-guide-toolkit.md)
+
+## Write-Ups <a id="writeups"></a>
+
+* [Untitled](writeups/untitled.md)
 
