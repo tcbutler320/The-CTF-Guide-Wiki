@@ -10,7 +10,7 @@ The CTF Guide is an open source project dedicated to teaching, learning, and pro
 
 ## Navigating the Guide
 
-The guide is broken down into groups
+The guide is broken down into groups several groups. You can use the left side navigation bar to find the content you're looking for, select the featured categories below, or search for any term using the search field in the upper right corner.
 
 ### \*\*\*\*[**Getting** **Started** ](getting-started/getting-started.md)
 
@@ -45,4 +45,6 @@ The guide is broken down into groups
 ### \*\*\*\*[**Resources**](techniques/windows-penetration-testing-1/windows-penetration-testing-resources.md)\*\*\*\*
 
 {% page-ref page="resources/error/" %}
+
+
 
