@@ -14,3 +14,7 @@ As you may have noticed, The CTF Guide is currently hosted as a subdomain to my 
 
 If you are interested in learning more about the project, or contributing to the documentation you see here, please send an email to contact@ctfguide.org. As the project in hosted on GitHub, feel free to fork your own branch and make a pull request for updates and changes. If there is a particular topic you feel this project should cover, or you think we are missing resources, you can leave a pull an issue on the Github project page.
 
+{% embed url="https://tylerbutler.io/about-2/" %}
+
+
+
