@@ -1,12 +1,20 @@
 # SQL Injection
 
-### Step 1, Find a XSS Vulnerability 
+## Anatomy of a basic SQLi test 
 
-To find an XSS vulnerability, you often need to test input fields on a webpage. These can be comment boxes, input forms, or anywhere else you can submit text to the server. Below are some good resources for testing various inputs which _might_ trigger an XSS vulnerability. 
+While there are many automated tools to testing injectable points, it might be advantageous to try manually SQLi injection with some of the most basic forms. 
 
-{% embed url="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet" caption="PortSwigget Cross Site Scripting Cheat Sheet" %}
+#### Testing for input Validation 
 
-{% embed url="https://owasp.org/www-community/xss-filter-evasion-cheatsheet" caption="OWASP XSS Filter Cheat Sheet" %}
+```text
+username or 1=1 ;#
+```
+
+
+
+## SQL Injection Cheat Sheets
+
+{% embed url="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/" %}
 
 
 
