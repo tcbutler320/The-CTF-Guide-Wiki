@@ -16,9 +16,9 @@ Often, the use of stealing cookies in the context of a CTF involves escalating p
 
 Stealing cookies is a _server side_ attack. This means that aside from the CTF player, another user has to be interacted with to trigger the vulnerability. In CTF context, this   could mean interacting with the CTF organizers/facilitators, or it could mean the organizers have set up some kind of automated process. An example of an automated process would be automated actions on [Selenium](https://www.selenium.dev/). 
 
-### Step 1, Find a XSS Vulnerability 
+### Step 1, Find a [XSS Vulnerability ](./)
 
-To find an XSS vulnerability, you often need to test input fields on a webpage. These can be comment boxes, input forms, or anywhere else you can submit text to the server. Below are some good resources for testing various inputs which _might_ trigger an XSS vulnerability. 
+To find an [XSS vulnerability](./), you often need to test input fields on a webpage. These can be comment boxes, input forms, or anywhere else you can submit text to the server. Below are some good resources for testing various inputs which _might_ trigger an [XSS vulnerability](./). 
 
 {% embed url="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet" caption="PortSwigget Cross Site Scripting Cheat Sheet" %}
 

@@ -45,6 +45,7 @@
 
 * [Techniques](techniques/techniques.md)
 * [Linux Penetration Testing](techniques/linux-penetration-testing/README.md)
+  * [General Linux Administration](techniques/linux-penetration-testing/general-linux-administration.md)
   * [Service Enumeration](techniques/linux-penetration-testing/service-enumeration/README.md)
     * [Telnet \| 21](techniques/linux-penetration-testing/service-enumeration/telnet-or-21.md)
     * [SSH \| 22](techniques/linux-penetration-testing/service-enumeration/ssh-or-22.md)
@@ -52,6 +53,7 @@
     * [Web Services \| 80 & 443](techniques/linux-penetration-testing/service-enumeration/web-services-or-80-and-443.md)
   * [Privilige Escalation](techniques/linux-penetration-testing/privilige-escalation.md)
 * [Windows Penetration Testing](techniques/windows-penetration-testing-1/README.md)
+  * [General Windows Administration](techniques/windows-penetration-testing-1/general-windows-administration.md)
   * [Service Enumeration](techniques/windows-penetration-testing-1/service-enumeration.md)
   * [Privilige Escalation](techniques/windows-penetration-testing-1/privilige-escalation.md)
 * [Web Application Testing](techniques/web-application-testing/README.md)
@@ -62,11 +64,6 @@
   * [Browser-Based Tools](techniques/crytography/browser-based-tools.md)
   * [Cryptography Overview](techniques/crytography/cryptography-overview.md)
 
-## Github Wiki Utilities
-
-* [The CTF Guide Index](github-wiki-utilities/_sidebar.md)
-* [\_Footer](github-wiki-utilities/_footer.md)
-
 ## ToolKit
 
 * [CTF Guide Toolkit](toolkit/ctf-guide-toolkit.md)
@@ -74,4 +71,9 @@
 ## Write-Ups <a id="writeups"></a>
 
 * [Untitled](writeups/untitled.md)
+
+## Github Wiki Utilities
+
+* [The CTF Guide Index](github-wiki-utilities/_sidebar.md)
+* [\_Footer](github-wiki-utilities/_footer.md)
 
