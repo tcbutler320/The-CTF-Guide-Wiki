@@ -1,4 +1,4 @@
-# The CTF Playbook
+# The CTF Guide
 
 ## Quick Links
 
