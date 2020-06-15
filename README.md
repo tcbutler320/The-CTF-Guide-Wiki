@@ -1,8 +1,10 @@
 ---
-description: 'An open source platform for learning, growth in Capture the Flag'
+description: 'An open source platform for teaching, learning, and promoting Capture the Flag'
 ---
 
 # Welcome to the CTF Guide
+
+![](.gitbook/assets/09.png)
 
 The CTF Guide is an open source project dedicated to collecting, creating, and disseminating resources on Capture the Flag competitions. Whether you are a seasoned information security professional, an academic, a student, or just curious about CTF's, this repository  is designed to contain useful information for all ages and skill levels. 
 
