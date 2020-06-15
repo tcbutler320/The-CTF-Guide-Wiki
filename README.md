@@ -16,6 +16,10 @@ Whether you are a seasoned information security professional, an academic, a stu
 
 The guide is broken down into groups several groups. You can use the left side navigation bar to find the content you're looking for, select the featured categories below, or search for any term using the search field in the upper right corner.
 
+### What is CTF
+
+{% page-ref page="welcome-to-the-guide/getting-started-in-ctf.md" %}
+
 ### \*\*\*\*[**Getting** **Started** ](getting-started/getting-started.md)
 
 {% page-ref page="getting-started/picking-a-category.md" %}
@@ -30,7 +34,7 @@ The guide is broken down into groups several groups. You can use the left side n
 
 {% page-ref page="categories/jeopardy/" %}
 
-{% page-ref page="categories/attack-defend.md" %}
+{% page-ref page="categories/attack-defend/" %}
 
 ### \*\*\*\*[**Techniques**](techniques/techniques.md)\*\*\*\*
 

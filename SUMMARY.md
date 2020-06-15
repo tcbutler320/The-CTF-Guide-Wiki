@@ -29,9 +29,15 @@
   * [Vulnhub](categories/boot-2-root/vulnhub.md)
   * [Hack the Box](categories/boot-2-root/hack-the-box.md)
   * [Tryhackme](categories/boot-2-root/tryhackme.md)
+  * [Warzone](categories/boot-2-root/warzone.md)
+* [Always-On / Browser](categories/always-on-browser/README.md)
+  * [HackerOne CTF](categories/always-on-browser/hackerone-ctf.md)
+  * [OvertheWire](categories/always-on-browser/overthewire.md)
 * [Jeopardy](categories/jeopardy/README.md)
   * [CTF Time](categories/jeopardy/ctf-time.md)
-* [Attack / Defend](categories/attack-defend.md)
+* [Attack / Defend](categories/attack-defend/README.md)
+  * [National Cyber Defense League](categories/attack-defend/national-cyber-defense-league.md)
+  * [National Collegiate Cyber Defense Competition](categories/attack-defend/national-collegiate-cyber-defense-competition.md)
 
 ## Techniques
 
