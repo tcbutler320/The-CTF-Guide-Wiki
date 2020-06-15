@@ -1,5 +1,5 @@
 ---
-description: 'An open source platform for learning, growth, and inclusion'
+description: 'An open source platform for learning, growth in Capture the Flag'
 ---
 
 # Welcome to the CTF Guide

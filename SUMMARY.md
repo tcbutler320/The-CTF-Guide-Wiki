@@ -71,7 +71,9 @@
 
 ## Write-Ups <a id="writeups"></a>
 
-* [Untitled](writeups/untitled.md)
+* [Featured Write-Ups](writeups/error/README.md)
+  * [VulnUni CTF Write-Up](writeups/error/vulnuni.md)
+  * [Hack Me CTF Write-Up](writeups/error/untitled.md)
 
 ## Github Wiki Utilities
 
