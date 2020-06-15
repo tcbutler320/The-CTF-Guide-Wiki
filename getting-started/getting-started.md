@@ -8,7 +8,7 @@ description: A beginners guide to enter the world of CTF
 
 {% page-ref page="choosing-your-challenge-kit/" %}
 
-{% page-ref page="setting-up/" %}
+{% page-ref page="setting-up.md" %}
 
 
 

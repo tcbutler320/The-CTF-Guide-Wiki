@@ -20,15 +20,7 @@
   * [Mac Osx](getting-started/choosing-your-challenge-kit/mac-osx.md)
   * [Windows](getting-started/choosing-your-challenge-kit/windows.md)
   * [Mobile](getting-started/choosing-your-challenge-kit/mobile.md)
-* [Setting Up](getting-started/setting-up/README.md)
-  * [Boot 2 Root](getting-started/setting-up/boot-2-root/README.md)
-    * [VMware](getting-started/setting-up/boot-2-root/vmware.md)
-    * [VirtualBox](getting-started/setting-up/boot-2-root/virtualbox.md)
-  * [Hack the Box](getting-started/setting-up/hack-the-box.md)
-  * [Tryhackme](getting-started/setting-up/tryhackme.md)
-  * [Jeopardy](getting-started/setting-up/jeopardy/README.md)
-    * [In-Person Event](getting-started/setting-up/jeopardy/in-person-event.md)
-    * [Virtual Event](getting-started/setting-up/jeopardy/virtual-event.md)
+* [Setting Up](getting-started/setting-up.md)
 
 ## Categories
 
