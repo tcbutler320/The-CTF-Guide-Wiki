@@ -70,9 +70,33 @@ Select Continue. VMWare will save the file with the \*vmwarevm extension. Select
 
 On the main menu for VMWare, you should be able to see the new CTF as a VM. You can group VMs together according to category and put them in corresponding folders like CTFs and Attack Machines. Changing a VM folder here will not change the actual location of the image on your system. 
 
-![](../../.gitbook/assets/screen-shot-2020-06-15-at-12.45.57-pm.png)
+![Organizing your local workspace by category](../../.gitbook/assets/screen-shot-2020-06-15-at-12.45.57-pm.png)
+
+{% hint style="danger" %}
+Before launching a challenge VM, it is important to ensure the networking settings are only enabled for your local machine. This is a safety precaution you can take to ensure that no malicious code can connect to the outside internet 
+{% endhint %}
+
+To set network settings, right click the VM and select Settings.
+
+![The settings menu in VMWare](../../.gitbook/assets/screen-shot-2020-06-15-at-1.48.27-pm.png)
+
+In the settings menu, navigate to Network Adaptor. Select the "Private to my Mac" setting. Your VM will now only be accessible to other machines that are "local to your mac" and not accessible by the wider internet. 
+
+![](../../.gitbook/assets/screen-shot-2020-06-15-at-1.45.57-pm.png)
+
+
 
 ## Configuring DCHP
+
+In order to connect your attack virtual machine to the same local network that the CTF Challenge is on, you need to ensure DCHP is enabled and working properly. Dynamic Host Configuration Protocol \(DHCP\) is a  protocol which assigns machines on a network with an IP address, an essential function of networking. Luckily, many Vulnhub challenges come pre-configured with DCHP. 
+
+
+
+Read more about DCHP Here
+
+{% embed url="https://docs.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top" %}
+
+
 
 ## Getting Started
 
