@@ -11,7 +11,7 @@
 
 * [Getting Started](getting-started/getting-started.md)
 * [Picking a Category](getting-started/picking-a-category.md)
-* [Choosing your Challenge Kit](getting-started/choosing-your-challenge-kit/README.md)
+* [Choosing your Attack Platform](getting-started/choosing-your-challenge-kit/README.md)
   * [Dedicated Virtual Machine](getting-started/choosing-your-challenge-kit/dedicated-virtual-machine/README.md)
     * [Kali Linux](getting-started/choosing-your-challenge-kit/dedicated-virtual-machine/kali-linux.md)
     * [Parrot OS](getting-started/choosing-your-challenge-kit/dedicated-virtual-machine/parrot-os.md)
@@ -75,6 +75,7 @@
 * [Featured Write-Ups](resources/error/README.md)
   * [VulnUni CTF Write-Up](resources/error/vulnuni.md)
   * [Hack Me CTF Write-Up](resources/error/untitled.md)
+* [Getting Involved](resources/getting-involved.md)
 
 ## Github Wiki Utilities
 
@@ -82,6 +83,4 @@
 * [\_Footer](github-wiki-utilities/_footer.md)
 
 ## Community
-
-* [Getting Involved](community/getting-involved.md)
 
