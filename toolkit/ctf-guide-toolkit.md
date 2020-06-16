@@ -36,6 +36,16 @@ description: A repository of useful Tools
 
 {% embed url="https://angryip.org/" %}
 
+### Wordlists
+
+{% embed url="https://localdomain.pw/Content-Bruteforcing-Wordlist/burp-wordlist.txt?ver=204493887" %}
+
+{% embed url="https://github.com/cujanovic/Content-Bruteforcing-Wordlist" %}
+
+### Directory Brute Forcing
+
+{% embed url="https://github.com/OJ/gobuster" %}
+
 
 
 
