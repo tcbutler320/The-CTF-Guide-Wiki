@@ -48,9 +48,9 @@ To see all CTF's hosted on Vulnhub, you can browse the timeline page.
 
 {% embed url="https://www.vulnhub.com/timeline/" caption="Link to the VulnHub Timeline" %}
 
-## Downloading a VM
+## Downloading the CTF VM
 
-This step will differ depending on your chosen Virtualization Software. The steps below are written for Mac OSX, but should be very similar for windows and other host operating systems. 
+This step will differ depending on your chosen Virtualization Software. If you have not already installed VMware or Virtual-box, [click here for instructions on setting up your host workstation. ](../../getting-started/choosing-your-challenge-kit/dedicated-virtual-machine/)The steps below are written for Mac OSX, but should be very similar for windows and other host operating systems. 
 
 {% hint style="success" %}
 Vulnhub CTF Installation Tutorial : [Raven CTF](https://www.vulnhub.com/entry/raven-1,256/)
