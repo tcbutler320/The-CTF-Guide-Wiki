@@ -4,6 +4,29 @@ description: A primer on administrating your linux attach machine
 
 # General Linux Administration
 
+## Manipulating Files
+
+### Read a file
+
+```bash
+cat filename.txt
+head filename.txt
+tail filename.txt
+```
+
+### Edit a file 
+
+```bash
+nano filename.txt
+vi filename.txt
+```
+
+### Move a file 
+
+```bash
+cp file/path/name.txt new/file/path/
+```
+
 ## Managing Users
 
 #### Create a User

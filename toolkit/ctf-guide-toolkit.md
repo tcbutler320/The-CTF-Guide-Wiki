@@ -28,7 +28,7 @@ description: A repository of useful Tools
 
 ## Tools By Function
 
-### Port Scanning 
+### Port Scanners 
 
 {% embed url="https://nmap.org/" %}
 
@@ -36,13 +36,17 @@ description: A repository of useful Tools
 
 {% embed url="https://angryip.org/" %}
 
+### Web Application Scanners
+
+{% embed url="https://wpscan.org/" %}
+
 ### Wordlists
 
 {% embed url="https://localdomain.pw/Content-Bruteforcing-Wordlist/burp-wordlist.txt?ver=204493887" %}
 
 {% embed url="https://github.com/cujanovic/Content-Bruteforcing-Wordlist" %}
 
-### Directory Brute Forcing
+### Directory Brute Forcers
 
 {% embed url="https://github.com/OJ/gobuster" %}
 
