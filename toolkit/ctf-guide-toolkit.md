@@ -12,5 +12,5 @@ description: A repository of useful Tools
 
 {% page-ref page="../techniques/crytography/cryptography-resources.md" %}
 
-
+{% page-ref page="../techniques/osint/" %}
 
