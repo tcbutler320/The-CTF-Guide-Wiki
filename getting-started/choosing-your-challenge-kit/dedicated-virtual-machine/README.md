@@ -28,8 +28,6 @@ Download VMWare from the  downloads site
 
 Download VirtualBox from the  downloads site 
 
-{% embed url="https://www.vmware.com/products/fusion/fusion-evaluation.html" %}
-
 {% embed url="https://www.virtualbox.org/wiki/Downloads" %}
 
 

@@ -104,9 +104,45 @@ Start both your target machine and your attack platform by right clicking, and s
 
 ![Starting the Raven CTF VM](../../.gitbook/assets/screen-shot-2020-06-15-at-1.48.21-pm.png)
 
+### Check for a connection
 
+Before testing the target for vulnerabilities, you will need to confirm it is connected to the network. There are several ways to do this.
+
+#### Ifconfig 
+
+Use the linux networking utility ifconfig to check network connections 
+
+```bash
+ifconfig 
+```
+
+#### Arp-Scan
+
+Use arp-scan to listen for other hosts on the network sending ARP packets
+
+```bash
+arp-scan -I [interface] -l
+```
+
+#### Netdiscover
+
+Use netdiscover to find other hosts on the network
+
+```bash
+netdiscover -i [interface]
+```
+
+#### Nmap Ping-Sweep
+
+Use nmap to sweep the network for live hosts
+
+```bash
+nmap  -sP [CIDR Range]
+```
 
 ## Cleaning Up
+
+When it is time to stop the challenge for any extended period of time, you should always shut down both the target and attack VM. Leaving these running in the background will significantly reduce your host computers resources and can cause slow performance and overheating.
 
 ## Submitting a CTF to Vulnhub
 
