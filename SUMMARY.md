@@ -69,6 +69,8 @@
   * [Browser-Based Tools](techniques/crytography/browser-based-tools.md)
   * [Cryptography Overview](techniques/crytography/cryptography-overview.md)
   * [Cryptography Resources](techniques/crytography/cryptography-resources.md)
+* [OSINT](techniques/osint/README.md)
+  * [OSINT Resources](techniques/osint/osint-resources.md)
 
 ## ToolKit
 
