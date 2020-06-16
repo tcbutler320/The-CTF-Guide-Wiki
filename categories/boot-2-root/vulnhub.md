@@ -4,6 +4,8 @@ description: An open source repository of Boot 2 Root CTF Challenges and Write-u
 
 # Vulnhub
 
+{% embed url="https://www.vulnhub.com/" caption="Vulnhub" %}
+
 ## Overview
 
 Vulnhub is synonymous with Capture the Flag. For years, the website and CTF archive repository has served as a cornerstone of the community by providing a central platform to host Boot 2 Root CTF Virtual Machines. Started and maintained by an infosec legend in their own right, [g0tmi1k](https://blog.g0tmi1k.com/), the site is an open source repository of hundreds of CTF  vm's ready for download. 
@@ -88,17 +90,21 @@ In the settings menu, navigate to Network Adaptor. Select the "Private to my Mac
 
 ## Configuring DCHP
 
-In order to connect your attack virtual machine to the same local network that the CTF Challenge is on, you need to ensure DCHP is enabled and working properly. Dynamic Host Configuration Protocol \(DHCP\) is a  protocol which assigns machines on a network with an IP address, an essential function of networking. Luckily, many Vulnhub challenges come pre-configured with DCHP. 
+In order to connect your attack virtual machine to the same local network that the CTF Challenge is on, you need to ensure DCHP is enabled and working properly. Dynamic Host Configuration Protocol \(DHCP\) is a  protocol which assigns machines on a network with an IP address, an essential function of networking. Luckily, many Vulnhub challenges come pre-configured with DCHP enabled. If configured correctly, all you need to do is ensure your attack platform and your target machine  both have network adaptors set to host-only. 
 
-
-
-Read more about DCHP Here
+_Read more about DCHP Here_
 
 {% embed url="https://docs.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top" %}
 
 
 
 ## Getting Started
+
+Start both your target machine and your attack platform by right clicking, and selecting "Start Up" from the drop down options. This is the last interactive step you will do on the target machine through your virtualization software. At this point, the CTF challenge has begun. 
+
+![Starting the Raven CTF VM](../../.gitbook/assets/screen-shot-2020-06-15-at-1.48.21-pm.png)
+
+
 
 ## Cleaning Up
 

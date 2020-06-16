@@ -12,3 +12,21 @@ Many CTF players will choose to run a virtualized environment specifically for c
 
 The two main types of virtualized environments used for this purpose are VMWare and Virtual Machine. Both have their advantages and disadvantages. They both offer free community editions, which can be downloaded and installed on Windows or Mac OSX. 
 
+### Installing VMWare 
+
+Download VMWare from the  downloads site 
+
+{% embed url="https://www.vmware.com/products/fusion/fusion-evaluation.html" %}
+
+
+
+### Installing VirtualBox
+
+Download VirtualBox from the  downloads site 
+
+{% embed url="https://www.vmware.com/products/fusion/fusion-evaluation.html" %}
+
+{% embed url="https://www.virtualbox.org/wiki/Downloads" %}
+
+
+
