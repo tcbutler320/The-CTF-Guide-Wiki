@@ -33,6 +33,7 @@
 * [Always-On / Browser](categories/always-on-browser/README.md)
   * [HackerOne CTF](categories/always-on-browser/hackerone-ctf.md)
   * [OvertheWire](categories/always-on-browser/overthewire.md)
+  * [Captf](categories/always-on-browser/captf.md)
 * [Jeopardy](categories/jeopardy/README.md)
   * [CTF Time](categories/jeopardy/ctf-time.md)
 * [Attack / Defend](categories/attack-defend/README.md)
@@ -51,6 +52,7 @@
     * [Web Services \| 80 & 443](techniques/linux-penetration-testing/service-enumeration/web-services-or-80-and-443.md)
   * [Privilige Escalation](techniques/linux-penetration-testing/privilige-escalation/README.md)
     * [Python Scripts](techniques/linux-penetration-testing/privilige-escalation/python-scripts.md)
+  * [Linux Penetration Testing Resources](techniques/linux-penetration-testing/linux-penetration-testing-resources.md)
 * [Windows Penetration Testing](techniques/windows-penetration-testing-1/README.md)
   * [General Windows Administration](techniques/windows-penetration-testing-1/general-windows-administration.md)
   * [Service Enumeration](techniques/windows-penetration-testing-1/service-enumeration.md)
@@ -62,9 +64,11 @@
   * [SQL Injection](techniques/web-application-testing/sql-injection.md)
   * [Cross Site Scripting \(XSS\)](techniques/web-application-testing/cross-site-scripting-xss/README.md)
     * [Stealing Cookies](techniques/web-application-testing/cross-site-scripting-xss/stealing-cookies.md)
+  * [Web Application Testing Resources](techniques/web-application-testing/web-application-testing-resources.md)
 * [Crytography](techniques/crytography/README.md)
   * [Browser-Based Tools](techniques/crytography/browser-based-tools.md)
   * [Cryptography Overview](techniques/crytography/cryptography-overview.md)
+  * [Cryptography Resources](techniques/crytography/cryptography-resources.md)
 
 ## ToolKit
 
