@@ -40,6 +40,12 @@ description: A repository of useful Tools
 
 {% embed url="https://wpscan.org/" %}
 
+{% embed url="https://owasp.org/www-project-zap/" %}
+
+
+
+
+
 ### Wordlists
 
 {% embed url="https://localdomain.pw/Content-Bruteforcing-Wordlist/burp-wordlist.txt?ver=204493887" %}
@@ -49,6 +55,12 @@ description: A repository of useful Tools
 ### Directory Brute Forcers
 
 {% embed url="https://github.com/OJ/gobuster" %}
+
+{% embed url="https://tools.kali.org/web-applications/dirbuster\#:~:text=DirBuster%20Package%20Description,pages%20and%20applications%20hidden%20within." %}
+
+
+
+
 
 
 

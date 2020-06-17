@@ -90,3 +90,5 @@
 
 ## Community
 
+* [Creating a CTF Team](creating-a-ctf-team.md)
+
