@@ -82,6 +82,7 @@
   * [VulnUni CTF Write-Up](resources/error/vulnuni.md)
   * [Hack Me CTF Write-Up](resources/error/untitled.md)
 * [Getting Involved](resources/getting-involved.md)
+* [Creating a CTF Team](resources/creating-a-ctf-team.md)
 
 ## Github Wiki Utilities
 
@@ -89,6 +90,4 @@
 * [\_Footer](github-wiki-utilities/_footer.md)
 
 ## Community
-
-* [Creating a CTF Team](creating-a-ctf-team.md)
 
