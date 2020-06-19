@@ -9,9 +9,11 @@ description: A primer on administrating your linux attach machine
 ### Read a file
 
 ```bash
-cat filename.txt
-head filename.txt
-tail filename.txt
+cat [filename.txt]
+head [filename.txt]
+tail [filename.txt]
+hexdump -C [filename.txt]
+tac [filename.txt]
 ```
 
 ### Edit a file 

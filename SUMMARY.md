@@ -57,6 +57,7 @@
   * [General Windows Administration](techniques/windows-penetration-testing-1/general-windows-administration.md)
   * [Service Enumeration](techniques/windows-penetration-testing-1/service-enumeration.md)
   * [Post Infiltration](techniques/windows-penetration-testing-1/privilige-escalation.md)
+  * [Pivoting](techniques/windows-penetration-testing-1/pivoting.md)
   * [Privilige Escalation](techniques/windows-penetration-testing-1/privilige-escalation-1.md)
   * [Powershell Scripts and One-Liners](techniques/windows-penetration-testing-1/powershell-scripts-and-one-liners.md)
   * [Windows Penetration Testing Resources](techniques/windows-penetration-testing-1/windows-penetration-testing-resources.md)
