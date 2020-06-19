@@ -43,6 +43,18 @@ sudo useradd [username]
 passwd [username] 
 ```
 
+#### Add User to Superusers Group
+
+```text
+usermod -aG sudo [username]
+```
+
+#### Specify a shell for the new user 
+
+```text
+chsh -s /bin/bash [username]
+```
+
 ## The Apache Webserver
 
 Especially when you are competing in Boot 2 Root or local network competitions, running an apache webserver comes in handy. From transferring tools to your target with commands like wget and curl, to stealing authentication tokens and appending them to apache logs, knowing how to administer a simple webserver is key. 
