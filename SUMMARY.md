@@ -79,6 +79,7 @@
 
 ## Resources
 
+* [Tutorials](resources/tutorials.md)
 * [Featured Write-Ups](resources/error/README.md)
   * [VulnUni CTF Write-Up](resources/error/vulnuni.md)
   * [Hack Me CTF Write-Up](resources/error/untitled.md)
