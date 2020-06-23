@@ -71,6 +71,7 @@
   * [Cryptography Overview](techniques/crytography/cryptography-overview.md)
   * [Cryptography Resources](techniques/crytography/cryptography-resources.md)
 * [OSINT](techniques/osint/README.md)
+  * [PWN](techniques/osint/pwn.md)
   * [OSINT Resources](techniques/osint/osint-resources.md)
 
 ## ToolKit
