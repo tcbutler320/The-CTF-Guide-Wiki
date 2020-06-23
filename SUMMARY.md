@@ -20,6 +20,7 @@
   * [Mac Osx](getting-started/choosing-your-challenge-kit/mac-osx.md)
   * [Windows](getting-started/choosing-your-challenge-kit/windows.md)
   * [Mobile](getting-started/choosing-your-challenge-kit/mobile.md)
+  * [Other Considerations](getting-started/choosing-your-challenge-kit/other-considerations.md)
 * [Setting Up](getting-started/setting-up.md)
 
 ## Event Types <a id="types"></a>
@@ -35,6 +36,7 @@
   * [OvertheWire](types/always-on-browser/overthewire.md)
   * [Captf](types/always-on-browser/captf.md)
 * [Jeopardy](types/jeopardy/README.md)
+  * [Challenge Categories](types/jeopardy/challenge-categories.md)
   * [CTF Time](types/jeopardy/ctf-time.md)
 * [Attack / Defend](types/attack-defend/README.md)
   * [National Cyber Defense League](types/attack-defend/national-cyber-defense-league.md)

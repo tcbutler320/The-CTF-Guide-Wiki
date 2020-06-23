@@ -9,5 +9,9 @@ The most common Jeopardy categories include the following.
 5. Web \(Web application Security\)
 6. Misc \(Miscellaneous\) 
 
+{% page-ref page="challenge-categories.md" %}
+
+
+
  
 
