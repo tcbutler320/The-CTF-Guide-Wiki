@@ -1,4 +1,4 @@
-# Categories
+# Event Types
 
 
 

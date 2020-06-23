@@ -30,7 +30,7 @@ To effectively steal another user's cookie, your payload needs to do two things;
 
 #### Local Network Payload
 
-A local network CTF can be defined as a CTF in which the target CTF application and your attack machine are on the same network. These can include a [VulnHub](../../../categories/boot-2-root/vulnhub.md) [boot 2 root](../../../categories/boot-2-root/) challenge where you are running the CTF and your attack machine in the same virtualization software. Payloads in a local network need to send cookies _directly_  to your attack machine. An easy way to accomplish this is with netcat. 
+A local network CTF can be defined as a CTF in which the target CTF application and your attack machine are on the same network. These can include a [VulnHub](../../../types/boot-2-root/vulnhub.md) [boot 2 root](../../../types/boot-2-root/) challenge where you are running the CTF and your attack machine in the same virtualization software. Payloads in a local network need to send cookies _directly_  to your attack machine. An easy way to accomplish this is with netcat. 
 
 #### Netcat 
 

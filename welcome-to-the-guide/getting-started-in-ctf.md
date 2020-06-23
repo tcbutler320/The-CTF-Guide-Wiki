@@ -6,7 +6,7 @@ description: A primer on Capture the Flag
 
 ## Overview
 
-Capture the Flag competitions can come in several forms, but most commonly refers to challenges where players use techniques to exploit vulnerabilities to “capture” or reveal flags which are hidden from plain view. The practice of CTF’s helps to develop deep understanding of computer’s, computer networking, software, open source intelligence, and more. There are several different types of CTF events including [boot2root](../categories/boot-2-root/), Jeopardy, [Attack-Defense](../categories/attack-defend/), OSINT, and mixed. Each type requires the use of slightly different skill sets, and can vary on exact format.
+Capture the Flag competitions can come in several forms, but most commonly refers to challenges where players use techniques to exploit vulnerabilities to “capture” or reveal flags which are hidden from plain view. The practice of CTF’s helps to develop deep understanding of computer’s, computer networking, software, open source intelligence, and more. There are several different types of CTF events including [boot2root](../types/boot-2-root/), Jeopardy, [Attack-Defense](../types/attack-defend/), OSINT, and mixed. Each type requires the use of slightly different skill sets, and can vary on exact format.
 
 ## The many faces of CTF
 

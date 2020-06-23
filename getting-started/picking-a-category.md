@@ -1,12 +1,12 @@
 # Picking a Category
 
-{% page-ref page="../categories/boot-2-root/" %}
+{% page-ref page="../types/boot-2-root/" %}
 
-{% page-ref page="../categories/jeopardy/" %}
+{% page-ref page="../types/jeopardy/" %}
 
-{% page-ref page="../categories/always-on-browser/" %}
+{% page-ref page="../types/always-on-browser/" %}
 
-{% page-ref page="../categories/attack-defend/" %}
+{% page-ref page="../types/attack-defend/" %}
 
 
 

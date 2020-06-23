@@ -28,13 +28,13 @@ The guide is broken down into groups several groups. You can use the left side n
 
 {% page-ref page="getting-started/setting-up.md" %}
 
-### \*\*\*\*[**Categories**](categories/categories.md)\*\*\*\*
+### \*\*\*\*[**Categories**](types/categories.md)\*\*\*\*
 
-{% page-ref page="categories/boot-2-root/" %}
+{% page-ref page="types/boot-2-root/" %}
 
-{% page-ref page="categories/jeopardy/" %}
+{% page-ref page="types/jeopardy/" %}
 
-{% page-ref page="categories/attack-defend/" %}
+{% page-ref page="types/attack-defend/" %}
 
 ### \*\*\*\*[**Techniques**](techniques/techniques.md)\*\*\*\*
 
