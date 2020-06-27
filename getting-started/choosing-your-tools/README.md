@@ -1,4 +1,4 @@
-# Choosing your Attack Platform
+# Choosing your Tools
 
 {% page-ref page="dedicated-virtual-machine/" %}
 

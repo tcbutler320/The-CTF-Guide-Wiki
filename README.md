@@ -24,7 +24,7 @@ The guide is broken down into groups several groups. You can use the left side n
 
 {% page-ref page="getting-started/picking-a-category.md" %}
 
-{% page-ref page="getting-started/choosing-your-challenge-kit/" %}
+{% page-ref page="getting-started/choosing-your-tools/" %}
 
 {% page-ref page="getting-started/setting-up.md" %}
 

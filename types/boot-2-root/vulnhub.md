@@ -12,7 +12,7 @@ Vulnhub is synonymous with Capture the Flag. For years, the website and CTF arch
 
 ## Picking a VulHub CTF
 
-The first two considerations you should make when picking a challenge on Vulnhub are Platform and Difficulty. All VMs on the platform require either VMware or Virtual Box to run. For information on setting up a [Dedicated Virtual Machine, click the link here.](../../getting-started/choosing-your-challenge-kit/dedicated-virtual-machine/)
+The first two considerations you should make when picking a challenge on Vulnhub are Platform and Difficulty. All VMs on the platform require either VMware or Virtual Box to run. For information on setting up a [Dedicated Virtual Machine, click the link here.](../../getting-started/choosing-your-tools/dedicated-virtual-machine/)
 
 #### A Statement About Security 
 
@@ -50,7 +50,7 @@ To see all CTF's hosted on Vulnhub, you can browse the timeline page.
 
 ## Downloading the CTF VM
 
-This step will differ depending on your chosen Virtualization Software. If you have not already installed VMware or Virtual-box, [click here for instructions on setting up your host workstation. ](../../getting-started/choosing-your-challenge-kit/dedicated-virtual-machine/)The steps below are written for Mac OSX, but should be very similar for windows and other host operating systems. 
+This step will differ depending on your chosen Virtualization Software. If you have not already installed VMware or Virtual-box, [click here for instructions on setting up your host workstation. ](../../getting-started/choosing-your-tools/dedicated-virtual-machine/)The steps below are written for Mac OSX, but should be very similar for windows and other host operating systems. 
 
 {% hint style="success" %}
 Vulnhub CTF Installation Tutorial : [Raven CTF](https://www.vulnhub.com/entry/raven-1,256/)
